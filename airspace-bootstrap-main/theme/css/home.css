@@ -198,4 +198,9 @@ footer a:hover {
   right: 0;
   bottom: 0;
 }
+
+figure figcaption {
+  border: 1px dotted blue;
+  text-align: center;
+}
 /*# sourceMappingURL=home.css.map */
